@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    
+}
+
+#pictureb{
+    height:400px;
+   width:400px;
+}
+#picturep{
+    height: 400px;
+    width: 400px;
+}
+
+img:hover{
+    transform: scale(1.2)
+}
